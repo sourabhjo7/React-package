@@ -1,0 +1,18 @@
+.socket{
+    position:absolute !important;
+  }
+
+.output {
+  
+  right: 18px;
+  top:40%;
+  }
+.input {
+    left: 18px;
+    top:37%;
+    }
+    /* .node .control{
+      padding: 0px 0px !important;
+
+    } */
+  
