@@ -10,7 +10,7 @@ import ReactRenderPlugin from "rete-react-render-plugin";
 import {
   controller,
   publish,
-  publishNode,
+  publishNode, 
   publishTest,
   subscribe,
 } from "./events";
